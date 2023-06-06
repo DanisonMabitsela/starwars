@@ -1,0 +1,46 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelstalk.net%2Ffree-download-star-wars-wallpaper-4k%2F&psig=AOvVaw2ZnbMOvL4jPhNQ7b3LUjp8&ust=1685488346650000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjgvMLTm_8CFQAAAAAdAAAAABAJ");
+  background-size: cover;
+  color: #fff;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.films-list {
+  list-style: none;
+  padding: 0;
+}
+
+.films-list li {
+  margin-bottom: 10px;
+}
+
+.films-list li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.film-details {
+  margin-top: 20px;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2F4k-star-wars&psig=AOvVaw2ZnbMOvL4jPhNQ7b3LUjp8&ust=1685488346650000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjgvMLTm_8CFQAAAAAdAAAAABAE");
+  background-size: cover;
+  padding: 20px;
+  color: #fff;
+}
+
+.film-details h2 {
+  margin: 0 0 10px;
+}
+
+.film-details p {
+  margin: 0;
+}
